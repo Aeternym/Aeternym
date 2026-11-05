@@ -1,4 +1,4 @@
-# Дмитрий Толкачёв
+# Дмитрий Толкачев
 
 **Business Analyst | IT & E-commerce | AI-assisted automation**
 
@@ -38,11 +38,13 @@
 
 **Development:** TypeScript · JavaScript · HTML · CSS · Git
 
+**AI-assisted проекты:** Python/SQL — в AI-assisted прототипах, реализация с помощью Claude/Codex. Не указываю их как навыки самостоятельного программирования.
+
 **Tools:** Confluence · GitHub · Draw.io
 
 ## 📫 Контакты
 
-- [GitHub](https://github.com/Aeternym)
+- [tolkadima@gmail.com](mailto:tolkadima@gmail.com)
 - [tg](https://t.me/Aeternym)
 
 ---
