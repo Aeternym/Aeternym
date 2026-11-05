@@ -43,7 +43,7 @@
 ## 📫 Контакты
 
 - [GitHub](https://github.com/Aeternym)
-- [Портфолио](https://github.com/Aeternym/business-analyst-portfolio)
+- [tg](https://t.me/Aeternym)
 
 ---
 
